@@ -5,12 +5,12 @@
 #include <Keypad.h>
 
 // WiFi and SMTP configuration
-#define WIFI_SSID "Banarsi_Babu"
-#define WIFI_PASSWORD "4baarAAAA"
+#define WIFI_SSID "Wifi_SSID"
+#define WIFI_PASSWORD "Wifi_Password"
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_Port 465
 #define sender_email "hariomagrahari06@gmail.com"
-#define sender_password "aqwf gkmx swev zhmu"
+#define sender_password "aqwf gkmx swev kjer"
 
 // Recipient emails and names
 #define Recipient_email1 "1ds21et028@dsce.edu.in"
